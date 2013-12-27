@@ -11,7 +11,6 @@ describe OrbitalMechanics::Circular do
     subject.orbital_velocity(distance_to_moon, mass_of_earth).should eq(1017.4602003129062)
   end
 
-
   it 'should be able to calculate escape velocities' do
     distance_to_moon = 385000000
     mass_of_earth = 5.972e24
