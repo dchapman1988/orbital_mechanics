@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = OrbitalMechanics::VERSION
   spec.authors       = ["David Chapman"]
   spec.email         = ["dchapman1988@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{The Orbital Mechanics Ruby Library}
+  spec.summary       = %q{Aims to provide a nice clean Ruby library for solving common problems encountered in astrodynamics, ballistics, and celestial mechanics.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
